@@ -83,8 +83,3 @@ Improve search flexibility
 Add categories
 
 Enhance the UI
-
-
-👨‍💻 Author
-
-Komolafe Temitope
